@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 - [x] User can **sign in to Twitter** using OAuth login
 - [x]	User can **view tweets from their home timeline**
   - [x] User is displayed the username, name, and body for each tweet
-  - [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
+  - [] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
 - [x] User can refresh tweets timeline by pulling down to refresh
 
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/daniaa760/Twitter/blob/master/twittergif2.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -34,7 +34,7 @@ Tweets were not displaying on timeline. Much later, it was realized that the twi
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Codepath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
