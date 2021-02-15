@@ -1,8 +1,8 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Twitter App*
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Twitter App** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -26,7 +26,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Trouble implementing character count feature. App would crash. Was solved after a google search and I realized the line of code was missing .toString().
 
 ## Open-source libraries used
 
