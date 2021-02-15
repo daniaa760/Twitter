@@ -1,4 +1,4 @@
-# Project 2 - *Twitter App*
+# Project 2 - *Twitter App* (pt 2)
 
 **Twitter App** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -33,7 +33,7 @@ Trouble implementing character count feature. App would crash. Was solved after 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
-# Project 2 - Twitter App
+# Project 2 - Twitter App (pt 1)
 
 Twitter App is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
